@@ -105,6 +105,16 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
 </div>
 
+<h2 align="left">📚 Aprendiendo:</h2>
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=cs" height="30" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="30" />
+</div>
+
+###
+
 ###
 
 <div align="center">
