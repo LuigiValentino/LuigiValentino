@@ -1,4 +1,4 @@
-<h2 align="left">Hola a todos, soy Luigi.🖐<br>Soy programador desde los 15 años.💻<br>Estoy encantado de recibir ideas y propuestas de programación. 🚀<br>¡Listo para crear algo increíble juntos! 😊<br><br><br><br>Hello everyone, I'm Luigi. 🖐<br>I've been a programmer since the age of 15.💻<br>I'm thrilled to receive ideas and programming proposals.🚀<br>Ready to create something amazing together!😊</h2>
+<h2 align="left">Hola a todos, soy Luigi. Soy programador desde los 15 años y estoy encantado de recibir ideas y propuestas de programación. 🚀<br><br><br><br>Hello everyone, I'm Luigi, I've been a programmer since the age of 15 and I'm thrilled to receive ideas and programming proposals. 🚀</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="left"> Tech Stack:</h2>
 
 ###
 
