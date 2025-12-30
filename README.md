@@ -24,6 +24,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
