@@ -12,7 +12,7 @@
 
 <hr>
 
-## 🎯 Professional Profile
+##  Professional Profile
 
 <table>
 <tr>
@@ -160,24 +160,10 @@ Git, VS Code, Android Studio, Eclipse, Figma, Postman, Replit, AutoCAD, GameMake
 
 <hr>
 
-## 📊 GitHub Analytics & Metrics
+##  GitHub Analytics & Metrics
 
 <div align="center">
-  
-<a href="https://github.com/LuigiValentino">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuigiValentino&show_icons=true&count_private=true&hide_border=true&theme=merko&bg_color=0d1117&title_color=7EC0EE&icon_color=A7E6C7&hide_title=false" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/LuigiValentino">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiValentino&layout=compact&hide_border=true&theme=merko&bg_color=0d1117&title_color=A7E6C7&text_color=ffffff&hide_title=false" alt="Top Languages" />
-</a>
 
-<br><br>
-
-<a href="https://github.com/LuigiValentino">
-  <img height="165" src="https://streak-stats.demolab.com/?user=LuigiValentino&theme=merko&hide_border=true&background=0d1117&stroke=7EC0EE&ring=A7E6C7&fire=A7E6C7&currStreakLabel=A7E6C7" alt="GitHub Streak" />
-</a>
-
-<br><br>
 <a href="https://github.com/LuigiValentino">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuigiValentino&theme=merko&hide_border=true&bg_color=0d1117&color=A7E6C7&line=7EC0EE&point=ffffff&area=true&area_color=7EC0EE" alt="Activity Graph" width="100%" />
 </a>
@@ -211,15 +197,13 @@ Git, VS Code, Android Studio, Eclipse, Figma, Postman, Replit, AutoCAD, GameMake
     <strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/luigi-adducci/" target="_blank">linkedin.com/in/luigi-adducci</a><br>
     <strong> WhatsApp:</strong> <a href="https://wa.me/5491144302011" target="_blank">+54 9 11 4430-2011</a>
   </p>
-  
+  <hr>
   <p>
     <strong> Open to opportunities:</strong> Full-time, part-time, freelance, and collaboration projects<br>
     <strong> Disponible para oportunidades:</strong> Tiempo completo, part-time, freelance y proyectos de colaboración
   </p>
-  
-  <hr style="width: 50%; margin: 20px auto;">
-  
+    
   <p style="color: #888;">
-    <strong>🩶 Gracias por leer hasta el final // Thanks for reading all 🩶</strong>
+    <sub>🩶 Gracias por leer hasta el final // Thanks for reading all 🩶</sub>
   </p>
 </div>
