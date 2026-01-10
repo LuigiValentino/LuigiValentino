@@ -78,7 +78,7 @@ I am passionate about computer science, with experience that spans from developi
 
 • **SQL:** MySQL, SQLite, MariaDB, Oracle, SQL Server<br>
 • **NoSQL:** MongoDB, Cassandra, CouchDB, DynamoDB<br>
-• **Caching:** Redis, Memcached<br>
+• **Caching:** Redis<br>
 • **Cloud DB:** Supabase, Firebase, AWS RDS<br>
 • **ORM/ODM:** Hibernate, SQLAlchemy, Mongoose
 </td>
