@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuigiValentino&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Active%20%26%20Building-brightgreen?style=flat" alt="Status" />
-  <img src="https://img.shields.io/badge/Open_to_Opportunities-Yes-2ea44f?style=flat" alt="Open to Opportunities" />
 </p>
 
 <hr>
@@ -165,7 +164,6 @@ Git, VS Code, Android Studio, Eclipse, Figma, Postman, Replit, AutoCAD, GameMake
 
 <div align="center">
   
-<!-- GitHub Stats with Professional Theme -->
 <a href="https://github.com/LuigiValentino">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuigiValentino&show_icons=true&count_private=true&hide_border=true&theme=merko&bg_color=0d1117&title_color=7EC0EE&icon_color=A7E6C7&hide_title=false" alt="GitHub Stats" />
 </a>
@@ -175,12 +173,10 @@ Git, VS Code, Android Studio, Eclipse, Figma, Postman, Replit, AutoCAD, GameMake
 
 <br><br>
 
-<!-- GitHub Streak Stats -->
 <a href="https://github.com/LuigiValentino">
   <img height="165" src="https://streak-stats.demolab.com/?user=LuigiValentino&theme=merko&hide_border=true&background=0d1117&stroke=7EC0EE&ring=A7E6C7&fire=A7E6C7&currStreakLabel=A7E6C7" alt="GitHub Streak" />
 </a>
 
-<!-- Activity Graph -->
 <br><br>
 <a href="https://github.com/LuigiValentino">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuigiValentino&theme=merko&hide_border=true&bg_color=0d1117&color=A7E6C7&line=7EC0EE&point=ffffff&area=true&area_color=7EC0EE" alt="Activity Graph" width="100%" />
