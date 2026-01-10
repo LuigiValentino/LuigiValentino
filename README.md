@@ -132,31 +132,6 @@ I am passionate about computer science, with experience that spans from developi
 </tr>
 </table>
 
-<details>
-<summary><b>📚 View Complete Technology List</b></summary>
-
-### **Frontend & UI**
-React, Next.js, Vue, Astro, HTML5, CSS3, JavaScript ES6+, TailwindCSS, Bootstrap, SASS, Material-UI, Alpine.js, Three.js, D3.js, jQuery, HTMX, Webpack, Vite, Babel
-
-### **Backend & APIs**
-Node.js, Express, Django, Flask, FastAPI, Spring Boot, Hibernate, GraphQL, Socket.io, Electron, Deno, Bun, PHP, Java, Python, REST APIs, WebSockets, Discord.js
-
-### **Databases**
-MySQL, MongoDB, SQLite, PostgreSQL, Cassandra, DynamoDB, Redis, Supabase, Firebase, CouchDB, MariaDB, Oracle, SQL Server
-
-### **Cloud & DevOps**
-AWS, Google Cloud, Azure, Docker, Kubernetes, Terraform, Nginx, Linux (Ubuntu/Debian/Mint/BSD), Bash, PowerShell, Jenkins, GitHub Actions, GitLab, Bitbucket, Cloudflare, Heroku, Netlify, Prometheus, Grafana
-
-### **Programming Languages**
-Java, Python, JavaScript, PHP, R, C++, MATLAB, LaTeX, CMake, Maven, Gradle, npm, yarn, pnpm, Bun, Anaconda, pip, venv
-
-### **Data Science & AI**
-PyTorch, TensorFlow, OpenCV, scikit-learn, pandas, NumPy, Matplotlib, Jupyter, R, Hadoop, Spark, Kafka, Selenium, Jest, Cypress, pytest, JUnit
-
-### **Development Tools**
-Git, VS Code, Android Studio, Eclipse, Figma, Postman, Replit, AutoCAD, GameMaker Studio, Godot, QT, GTK, WebAssembly, CMake, Autotools
-
-</details>
 
 <hr>
 
