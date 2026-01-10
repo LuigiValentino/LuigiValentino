@@ -197,7 +197,6 @@ Git, VS Code, Android Studio, Eclipse, Figma, Postman, Replit, AutoCAD, GameMake
     <strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/luigi-adducci/" target="_blank">linkedin.com/in/luigi-adducci</a><br>
     <strong> WhatsApp:</strong> <a href="https://wa.me/5491144302011" target="_blank">+54 9 11 4430-2011</a>
   </p>
-  <hr>
   <p>
     <strong> Open to opportunities:</strong> Full-time, part-time, freelance, and collaboration projects<br>
     <strong> Disponible para oportunidades:</strong> Tiempo completo, part-time, freelance y proyectos de colaboración
