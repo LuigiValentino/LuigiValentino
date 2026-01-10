@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Luigi Adducci - Professional Banner" />
+  <img src="./banner.jpg" />
 </p>
 
 <h1 align="center">Luigi Adducci</h1>
@@ -177,3 +177,6 @@ I am passionate about computer science, with experience that spans from developi
     <sub>🩶 Gracias por leer hasta el final // Thanks for reading all 🩶</sub>
   </p>
 </div>
+<p align="center">
+  <img src="./banner_footer.jpg" />
+</p>
