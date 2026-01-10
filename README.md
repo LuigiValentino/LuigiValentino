@@ -177,6 +177,3 @@ I am passionate about computer science, with experience that spans from developi
     <sub>🩶 Gracias por leer hasta el final // Thanks for reading all 🩶</sub>
   </p>
 </div>
-<p align="center">
-  <img src="./banner_footer.jpg" />
-</p>
