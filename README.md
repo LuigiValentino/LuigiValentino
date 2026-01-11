@@ -41,9 +41,9 @@ I am passionate about computer science, with experience that spans from developi
 
 #### **Frontend & UI Development**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro" title="Frameworks" height="32" />
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" title="Languages" height="32"/>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,mui" title="Styling" height="32" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,htmx,alpinejs" title="Frameworks" height="32" />
+<img src="https://skillicons.dev/icons?i=html,css,js" title="Languages" height="32"/>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,mui,threejs" title="Styling" height="32" />
 </p>
 
 • **Frameworks & Libraries:** React, Next.js, Vue.js, Astro, HTMX, Alpine.js<br>
@@ -64,13 +64,13 @@ I am passionate about computer science, with experience that spans from developi
 <img src="https://skillicons.dev/icons?i=fastapi,spring,electron" title="Backend" height="32" />
 </p>
 
-• **Node.js Runtime:** Node.js, Express.js, Deno, Bun<br>
+• **Node.js Runtime:** Node.js, Express.js<br>
 • **Python Frameworks:** Django, Flask, FastAPI<br>
 • **Java Ecosystem:** Spring Boot, Hibernate, Maven, Gradle<br>
 • **API Protocols:** REST, GraphQL, WebSockets, gRPC<br>
 • **Real-time & Desktop:** Socket.io, Electron.js, Discord.js<br>
 • **Server-Side Languages:** Python, Java, PHP, JavaScript/Node.js<br>
-• **API Tools:** Postman, Insomnia, Swagger/OpenAPI
+• **API Tools:** Postman, Swagger/OpenAPI
 </td>
 
 <td width="33%" valign="top">
@@ -83,7 +83,7 @@ I am passionate about computer science, with experience that spans from developi
 
 • **SQL Databases:** MySQL, PostgreSQL, SQLite, MariaDB, Oracle, SQL Server<br>
 • **NoSQL Databases:** MongoDB, Apache Cassandra, CouchDB, DynamoDB<br>
-• **In-Memory & Caching:** Redis, Memcached<br>
+• **In-Memory & Caching:** Redis<br>
 • **Cloud Database Services:** Supabase, Firebase, AWS RDS<br>
 • **ORM/ODM Tools:** Hibernate (Java), SQLAlchemy (Python), Mongoose (Node.js)<br>
 • **Data Management:** Database Indexing, Query Optimization
@@ -100,7 +100,7 @@ I am passionate about computer science, with experience that spans from developi
 </p>
 
 • **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Microsoft Azure, Cloudflare<br>
-• **Containerization:** Docker, Kubernetes, Podman<br>
+• **Containerization:** Docker, Kubernetes<br>
 • **Infrastructure as Code:** Terraform<br>
 • **Web Servers:** Nginx, Apache<br>
 • **Operating Systems:** Linux (Ubuntu, Debian, Mint, BSD), Windows Server<br>
@@ -148,7 +148,7 @@ I am passionate about computer science, with experience that spans from developi
 
 #### **Additional Skills & Methodologies**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=github,gitlab,jenkins" title="Methodologies" height="32" />
+<img src="https://skillicons.dev/icons?i=github,gitlab,jenkins,maven,bitbucket,gradle" title="Methodologies" height="32" />
 </p>
 
 • **Software Architecture:** Microservices, Monoliths, Serverless, Distributed Systems<br>
