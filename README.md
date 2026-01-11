@@ -39,65 +39,74 @@ I am passionate about computer science, with experience that spans from developi
 <tr>
 <td width="33%" valign="top">
 
-#### **Frontend & UI/UX**
+#### **Frontend & UI Development**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro" title="Frameworks" height="32" />
-<img src="https://skillicons.dev/icons?i=html,css,js" title="Languages" height="32"/>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui" title="Styling" height="32" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" title="Languages" height="32"/>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,mui" title="Styling" height="32" />
 </p>
 
-• **Frameworks:** React, Next.js, Vue, Astro, HTMX<br>
-• **Libraries:** Alpine.js, Three.js, D3.js, jQuery<br>
-• **Styling:** Tailwind, Bootstrap, SASS, Material-UI<br>
-• **Build Tools:** Vite, Webpack, Babel, npm, yarn, pnpm<br>
-• **Rendering:** SSR, SSG, Responsive Design
+• **Frameworks & Libraries:** React, Next.js, Vue.js, Astro, HTMX, Alpine.js<br>
+• **UI Libraries:** Material-UI, Bootstrap, TailwindCSS, SASS/SCSS<br>
+• **Graphics & Visualization:** Three.js, D3.js<br>
+• **Legacy Support:** jQuery<br>
+• **Build Tools:** Vite, Webpack, Babel<br>
+• **Package Managers:** npm, yarn, pnpm<br>
+• **Core Technologies:** HTML5, CSS3, JavaScript ES6+<br>
+• **Rendering Strategies:** SSR, SSG, Responsive Design
 </td>
 
 <td width="33%" valign="top">
 
-#### **Backend & APIs**
+#### **Backend & Server-Side**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" title="Backend" height="32" />
 <img src="https://skillicons.dev/icons?i=fastapi,spring,electron" title="Backend" height="32" />
 </p>
 
-• **Node.js:** Express, Socket.io, Electron<br>
-• **Python:** Django, Flask, FastAPI<br>
-• **Java:** Spring Boot, Hibernate, Maven, Gradle<br>
-• **APIs:** REST, GraphQL, WebSockets<br>
-• **Tools:** Postman, WebAssembly, Discord.js
+• **Node.js Runtime:** Node.js, Express.js, Deno, Bun<br>
+• **Python Frameworks:** Django, Flask, FastAPI<br>
+• **Java Ecosystem:** Spring Boot, Hibernate, Maven, Gradle<br>
+• **API Protocols:** REST, GraphQL, WebSockets, gRPC<br>
+• **Real-time & Desktop:** Socket.io, Electron.js, Discord.js<br>
+• **Server-Side Languages:** Python, Java, PHP, JavaScript/Node.js<br>
+• **API Tools:** Postman, Insomnia, Swagger/OpenAPI
 </td>
 
 <td width="33%" valign="top">
 
-#### **Databases & Storage**
+#### **Databases & Data Storage**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" title="Databases" height="32" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" title="Databases" height="32" />
 <img src="https://skillicons.dev/icons?i=redis,cassandra,dynamodb" title="Databases" height="32" />
 </p>
 
-• **SQL:** MySQL, SQLite, MariaDB, Oracle, SQL Server<br>
-• **NoSQL:** MongoDB, Cassandra, CouchDB, DynamoDB<br>
-• **Caching:** Redis<br>
-• **Cloud DB:** Supabase, Firebase, AWS RDS<br>
-• **ORM/ODM:** Hibernate, SQLAlchemy, Mongoose
+• **SQL Databases:** MySQL, PostgreSQL, SQLite, MariaDB, Oracle, SQL Server<br>
+• **NoSQL Databases:** MongoDB, Apache Cassandra, CouchDB, DynamoDB<br>
+• **In-Memory & Caching:** Redis, Memcached<br>
+• **Cloud Database Services:** Supabase, Firebase, AWS RDS<br>
+• **ORM/ODM Tools:** Hibernate (Java), SQLAlchemy (Python), Mongoose (Node.js)<br>
+• **Data Management:** Database Indexing, Query Optimization
 </td>
 </tr>
 
 <tr>
 <td width="33%" valign="top">
 
-#### **Cloud & DevOps**
+#### **Cloud, DevOps & Infrastructure**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker" title="Cloud" height="32"/>
 <img src="https://skillicons.dev/icons?i=kubernetes,terraform,nginx,linux" title="DevOps" height="32" />
 </p>
 
-• **Cloud:** AWS, GCP, Azure, Cloudflare<br>
-• **Infrastructure:** Docker, Kubernetes, Terraform<br>
+• **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Microsoft Azure, Cloudflare<br>
+• **Containerization:** Docker, Kubernetes, Podman<br>
+• **Infrastructure as Code:** Terraform<br>
+• **Web Servers:** Nginx, Apache<br>
+• **Operating Systems:** Linux (Ubuntu, Debian, Mint, BSD), Windows Server<br>
 • **CI/CD:** GitHub Actions, Jenkins, GitLab CI<br>
-• **Servers:** Nginx, Apache, Linux (Ubuntu, Debian, Mint)<br>
-• **Monitoring:** Prometheus, Grafana, OpenTelemetry
+• **Monitoring & Observability:** Prometheus, Grafana, OpenTelemetry<br>
+• **Networking:** DNS, Load Balancing, CDN, VPN
 </td>
 
 <td width="33%" valign="top">
@@ -108,26 +117,48 @@ I am passionate about computer science, with experience that spans from developi
 <img src="https://skillicons.dev/icons?i=r,bash,powershell,wasm" title="Languages" height="32" />
 </p>
 
-• **Main:** Java, JavaScript, Python, PHP, R<br>
-• **Scripting:** Bash, PowerShell, Regex<br>
-• **Specialized:** WebAssembly, MATLAB, LaTeX<br>
-• **Game Dev:** GameMaker, Godot, PyGame<br>
-• **Desktop:** Qt, GTK, Electron, PySide6
+• **Primary Languages:** Java, Python, JavaScript/Node.js, PHP, R<br>
+• **Scripting Languages:** Bash, PowerShell, Shell Scripting<br>
+• **Specialized Languages:** MATLAB, LaTeX, WebAssembly (WASM)<br>
+• **Game Development:** GameMaker Studio, Godot Engine, PyGame<br>
+• **Desktop Frameworks:** Qt, GTK, PySide6, Electron.js<br>
+• **Build Systems:** CMake, Autotools, Make
 </td>
 
 <td width="33%" valign="top">
 
-#### **Data Science & Tools**
+#### **Data Science, AI & Machine Learning**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" title="Data Science" height="32" />
-<img src="https://skillicons.dev/icons?i=kafka,figma,git,postman" title="Tools" height="32" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" title="Data Science" height="32" /> <br>
+<img src="https://skillicons.dev/icons?i=kafka,figma,git" title="Tools" height="32" />
 </p>
 
-• **AI/ML:** PyTorch, TensorFlow, OpenCV, scikit-learn<br>
-• **Data:** pandas, NumPy, Matplotlib, Jupyter<br>
-• **Big Data:** Hadoop, Spark, Kafka, Flink<br>
-• **Testing:** Jest, Cypress, Selenium, pytest<br>
-• **Tools:** Figma, Postman, Android Studio, Eclipse, AutoCAD
+• **Machine Learning:** PyTorch, TensorFlow, scikit-learn, OpenCV<br>
+• **Data Analysis:** pandas, NumPy, Matplotlib, Jupyter Notebooks<br>
+• **Big Data & Streaming:** Apache Hadoop, Apache Spark, Apache Kafka, Apache Flink<br>
+• **Statistical Computing:** R Programming Language<br>
+• **Testing Frameworks:** pytest, JUnit, Jest, Cypress, Selenium<br>
+• **Development Tools:** VS Code, Android Studio, Eclipse, IntelliJ IDEA<br>
+• **Design & Prototyping:** Figma, Adobe XD, AutoCAD
+</td>
+</tr>
+
+<tr>
+<td colspan="3" valign="top">
+
+#### **Additional Skills & Methodologies**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,gitlab,jenkins" title="Methodologies" height="32" />
+</p>
+
+• **Software Architecture:** Microservices, Monoliths, Serverless, Distributed Systems<br>
+• **Development Methodologies:** Agile, Scrum, Kanban, CI/CD<br>
+• **Security Practices:** OWASP Top 10, Authentication/Authorization, Encryption<br>
+• **Testing Strategies:** Unit Testing, Integration Testing, E2E Testing, TDD<br>
+• **Performance Optimization:** Caching Strategies, Database Indexing, Load Balancing<br>
+• **Version Control:** Git, GitHub, GitLab, Bitbucket<br>
+• **Development Environments:** Replit, Gitpod, Docker Dev Environments<br>
+• **Build & Package Management:** Maven, Gradle, npm, pip, Composer
 </td>
 </tr>
 </table>
