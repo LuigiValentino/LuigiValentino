@@ -148,7 +148,7 @@ I am passionate about computer science, with experience that spans from developi
 
 #### **Additional Skills & Methodologies**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=github,gitlab,jenkins,maven,bitbucket,gradle" title="Methodologies" height="32" />
+<img src="https://skillicons.dev/icons?i=gitlab,jenkins,maven,bitbucket,gradle,replit" title="Methodologies" height="32" />
 </p>
 
 • **Software Architecture:** Microservices, Monoliths, Serverless, Distributed Systems<br>
