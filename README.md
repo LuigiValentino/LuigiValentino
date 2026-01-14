@@ -2,7 +2,7 @@
   <img src="./banner.jpg"/>
 </p>
 
-<h1 align="center">Luigi Adducci</h1>
+<h1 align="center">Luigi Valentino Adducci</h1>
 <h3 align="center">Full-Stack Software Developer // Systems Infrastructure Engineer // Network Solutions Specialist</h3>
 
 <p align="center">
