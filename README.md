@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Luigi Valentino Adducci</h1>
-<h3 align="center">Full-Stack Software Developer // Systems Infrastructure Engineer // Network Solutions Specialist</h3>
+<h3 align="center">Full-Stack Software Developer / Systems Infrastructure Engineer / Network Solutions Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuigiValentino&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
