@@ -173,7 +173,8 @@ I am passionate about computer science, with experience that spans from developi
 <a href="https://github.com/LuigiValentino">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuigiValentino&theme=merko&hide_border=true&bg_color=0d1117&color=A7E6C7&line=7EC0EE&point=ffffff&area=true&area_color=7EC0EE" alt="Activity Graph" width="100%" />
 </a>
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuigiValentino&theme=transparent"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuigiValentino&theme=transparent"/>
 </div>
 
 <hr>
