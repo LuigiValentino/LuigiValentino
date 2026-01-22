@@ -158,7 +158,7 @@ I am passionate about computer science, with experience that spans from developi
 • **Performance Optimization:** Caching Strategies, Database Indexing, Load Balancing<br>
 • **Version Control:** Git, GitHub, GitLab, Bitbucket<br>
 • **Development Environments:** Replit, Gitpod, Docker Dev Environments, Vercel, Heroku, Railway, Netlify<br>
-• **Build & Package Management:** Maven, Gradle, npm, pip, Composer
+• **Build & Package Management:** Maven, Gradle, npm, pip, Composer, Inno Setup
 </td>
 </tr>
 </table>
