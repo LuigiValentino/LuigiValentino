@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuigiValentino&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Active%20%26%20Building-brightgreen?style=flat" alt="Status" />
 </p>
 
 <hr>
