@@ -94,7 +94,7 @@ I am passionate about computer science, with experience that spans from developi
 
 #### **Cloud, DevOps & Infrastructure**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker" title="Cloud" height="32"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,debian,docker" title="Cloud" height="32"/>
 <img src="https://skillicons.dev/icons?i=kubernetes,terraform,nginx,linux" title="DevOps" height="32" />
 </p>
 
