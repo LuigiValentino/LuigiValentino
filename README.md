@@ -18,7 +18,7 @@
 <td width="50%" valign="top">
 
 ### **🇦🇷 Perfil Profesional**
-Soy un apasionado de la informática desde los 15 años. Mi experiencia abarca desde el desarrollo de software robusto y escalable hasta el liderazgo técnico y la visión de producto, habilidades que perfeccioné al fundar y desarrollar mi propio proyecto, **Arcynox**. Allí me especialicé en crear soluciones tecnológicas integrales, con foco en arquitectura de sistemas distribuidos, automatización y optimización. Busco ahora aplicar este conocimiento integral en un entorno colaborativo y desafiante.
+Soy un apasionado de la informática desde los 15 años. Mi experiencia abarca desde el desarrollo de software robusto y escalable hasta el liderazgo técnico y la visión de producto, habilidades que perfeccioné al co-fundar y desarrollar en, **Arcynox**. Allí me especialicé en crear soluciones tecnológicas integrales, con foco en arquitectura de sistemas distribuidos, automatización y optimización. Busco ahora aplicar este conocimiento integral en un entorno colaborativo y desafiante.
 
 </td>
 <td width="50%" valign="top">
