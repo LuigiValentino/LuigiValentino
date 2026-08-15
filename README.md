@@ -24,7 +24,7 @@ Soy un apasionado de la informática desde los 15 años. Mi experiencia abarca d
 <td width="50%" valign="top">
 
 ### **🇬🇧 Professional Profile**
-I am passionate about computer science, with experience that spans from developing robust and scalable software to technical leadership and product vision—skills I honed by founding and developing my own project, **Arcynox**. There, I specialized in creating comprehensive technological solutions, with a focus on **distributed systems architecture, automation, and optimization**. I am now seeking to apply this integral knowledge and comprehensive perspective within a collaborative and challenging environment.
+I am passionate about computer science, with experience that spans from developing robust and scalable software to technical leadership and product vision—skills I honed by co-founding and developing my own project, **Arcynox**. There, I specialized in creating comprehensive technological solutions, with a focus on **distributed systems architecture, automation, and optimization**. I am now seeking to apply this integral knowledge and comprehensive perspective within a collaborative and challenging environment.
 
 </td>
 </tr>
