@@ -119,7 +119,7 @@ I am passionate about computer science, with experience that spans from developi
 • **Primary Languages:** Java, Python, JavaScript/Node.js, PHP, R<br>
 • **Scripting Languages:** Bash, PowerShell, Shell Scripting<br>
 • **Specialized Languages:** MATLAB, LaTeX, WebAssembly (WASM)<br>
-• **Game Development:** GameMaker Studio, Godot Engine, PyGame<br>
+• **Game Development:** GameMaker Studio, Godot Engine, PyGame, Ren.py<br>
 • **Desktop Frameworks:** Qt, GTK, PySide6, Electron.js<br>
 • **Build Systems:** CMake, Autotools, Make
 </td>
