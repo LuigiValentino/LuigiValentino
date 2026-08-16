@@ -42,7 +42,7 @@ I am passionate about computer science, with experience that spans from developi
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,astro" title="Frameworks" height="32" />
 <img src="https://skillicons.dev/icons?i=html,css,js" title="Languages" height="32"/>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" title="Styling" height="32" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vuejs" title="Styling" height="32" />
 </p>
 
 • **Frameworks & Libraries:** React, Next.js, Vue.js, Astro, HTMX, Alpine.js<br>
